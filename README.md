@@ -1,8 +1,11 @@
 GETTING USED TO GITHUB
 
-git init (initialises new directory)
+git init (initialises new directory)                                         
+
 git config -- global user.name 'nkanbi' (sets username)
+
 git status (shows what is commited)
+
 git add . (adds what is uncommited)
 
 touch <filename> (creates a new file)
